@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+
+* {
+box-sizing: border-box;
+}
+
+body{
+margin: 0;
+padding: 0;
+}
+
+.app{
+    margin: auto;
+
+}
